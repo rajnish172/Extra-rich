@@ -156,7 +156,7 @@ int main() {
 
     }
     cout << "\nDo you want to See the Options,Type G\n";
-    cout << "DO you want to exit\n";
+    cout << "DO you want to exit Type n\n";
     value = getch();
     if (value == 'n' || value == 'N') {
       exit(2);
